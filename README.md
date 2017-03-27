@@ -26,10 +26,12 @@
   
 
 ## Experimental results
+  - sunny day, urban roadway
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZTrllS4_xsA
 " target="_blank"><img src="img/sunny.png" 
 alt="Video results" width="1280" height="360" /></a>
 
+  - dizzle day, urban roadway
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dWnuuFYUKdI
 " target="_blank"><img src="img/dizzle.png" 
 alt="Video results" width="1280" height="360" /></a>
