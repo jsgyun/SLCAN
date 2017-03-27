@@ -31,7 +31,7 @@
 " target="_blank"><img src="img/sunny.png" 
 alt="Video results" width="1280" height="360" /></a>
 
-  - dizzle day, urban roadway
+  - drizzle day, urban roadway
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dWnuuFYUKdI
-" target="_blank"><img src="img/dizzle.png" 
+" target="_blank"><img src="img/drizzle.png" 
 alt="Video results" width="1280" height="360" /></a>
