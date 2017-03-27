@@ -27,9 +27,9 @@
 
 ## Experimental results
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZTrllS4_xsA
-" target="_blank"><img src="http://img.youtube.com/vi/ZTrllS4_xsA/0.jpg" 
+" target="_blank"><img src="img/sunny.png" 
 alt="Video results" width="1280" height="480" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dWnuuFYUKdI
-" target="_blank"><img src="http://img.youtube.com/vi/dWnuuFYUKdI/0.jpg" 
+" target="_blank"><img src="img/dizzle.png" 
 alt="Video results" width="1280" height="480" /></a>
