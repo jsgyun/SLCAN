@@ -23,16 +23,13 @@
   <img src="img/vehicle.png" width="640" />  
 </p>
   - Our research vehicle senses rear side space with cameras mounted at the both side.
-    
-[](
-//<br />
-//<br />
-//<p align="center" >
-//  <img src="img/architecture.png" width="640" />  
-//</p>
-//  - Illustration of SLCAN architecture configurations: (a) two independent networks that separately train left rear view image and right rear view image and (b) unified single network that takes left rear view image and flipped right rear view image. When deployed on a GPU, configuration of (b) can process two input images in parallel, saving space without additional processing time.)
+  
 
 ## Experimental results
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=d5xJSw6qSpo
-" target="_blank"><img src="http://img.youtube.com/vi/d5xJSw6qSpo/0.jpg" 
-alt="Video results" width="480" height="360" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZTrllS4_xsA
+" target="_blank"><img src="http://img.youtube.com/vi/ZTrllS4_xsA/0.jpg" 
+alt="Video results" width="1280" height="480" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dWnuuFYUKdI
+" target="_blank"><img src="http://img.youtube.com/vi/dWnuuFYUKdI/0.jpg" 
+alt="Video results" width="1280" height="480" /></a>
