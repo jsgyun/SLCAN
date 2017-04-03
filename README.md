@@ -26,6 +26,7 @@
   
 
 ## Experimental results
+  We provide video results processed in real time on our research vehicle. Input image is overlayed with red or green color when the proposed algorithm classifies it as *BLOCKED* or *FREE*, respectively. Bar on the top of the images shows a confidence score for classification. To play the video results, please click the image thumbnails that connect to youtube.  
   - sunny / urban roadway
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZTrllS4_xsA
 " target="_blank"><img src="img/sunny.png" 
