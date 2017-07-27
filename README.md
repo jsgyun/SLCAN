@@ -1,10 +1,14 @@
 # End-to-end Learning of Image based Lane-Change Decision
 
 ## Authors
-  - Seong-Gyun Jeong
+  - Seong-Gyun Jeong [seonggyun.jeong@naverlabs.com]
   - Jiwon Kim
   - Sujung Kim
   - Jaesik Min
+  
+## Paper
+  - Our work has been presented in IEEE IV'17.
+  - https://arxiv.org/abs/1706.08211
 
 ## Abstract
   We propose an image based end-to-end learning framework that helps lane-change decisions for human drivers and autonomous vehicles. The proposed system, Safe Lane-Change Aid Network (SLCAN), trains a deep convolutional neural network to classify the status of adjacent lanes from rear view images acquired by cameras mounted on both sides of the vehicle. Rather than depending on any explicit object detection or tracking scheme, SLCAN reads the whole input image to directly decide whether initiation of the lane-change at the moment is safe or not. Over 77k rear side view images are collected and annotated to train and test SLCAN. Experimental results show that the proposed framework achieves 96.98% classification accuracy although the test images are from unseen roadways. We also visualize the saliency map to understand which part of image SLCAN looks at for correct decisions.
